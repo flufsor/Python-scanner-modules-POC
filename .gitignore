@@ -6,6 +6,3 @@
 
 # Python compiled bytecode
 __pycache__/
-
-# Json output files
-*.json

@@ -1,0 +1,16 @@
+[
+    {
+        "target": "1.1.1.1",
+        "start_time": "2023-09-28T08:51:35.983047",
+        "end_time": "2023-09-28T08:51:50.007215",
+        "result": "Failed to perform test",
+        "output_log": "Failed to perform test"
+    },
+    {
+        "target": "8.8.8.8",
+        "start_time": "2023-09-28T08:51:50.007308",
+        "end_time": "2023-09-28T08:52:04.034768",
+        "result": "Failed to perform test",
+        "output_log": "Failed to perform test"
+    }
+]
